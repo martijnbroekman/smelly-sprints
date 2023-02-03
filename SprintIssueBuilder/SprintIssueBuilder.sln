@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SprintIssueBuilder", "SprintIssueBuilder\SprintIssueBuilder.csproj", "{3508560A-E573-46DA-9A2C-F2E9F973271C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3508560A-E573-46DA-9A2C-F2E9F973271C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3508560A-E573-46DA-9A2C-F2E9F973271C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3508560A-E573-46DA-9A2C-F2E9F973271C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3508560A-E573-46DA-9A2C-F2E9F973271C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A4055EB-9806-4CB8-99AC-402C370EFB9B}
+	EndGlobalSection
+EndGlobal
